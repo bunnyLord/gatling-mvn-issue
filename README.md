@@ -2,6 +2,8 @@
 
 This project is meant as an example material for Gatling mvn issue when trying to run the simulation from outside of the Gatling project.
 
+https://github.com/gatling/gatling-maven-plugin/issues/18
+
 gatling-mvn-issue $ mvn clean test
 
 SUCCESS
